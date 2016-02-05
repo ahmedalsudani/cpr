@@ -4,7 +4,7 @@
   "author": "Dav Glass <davglass@gmail.com>",
   "version": "1.0.0",
   "dependencies": {
-    "graceful-fs": "~4.1.2",
+    "graceful-fs": "git+https://github.com/ahmedalsudani/node-graceful-fs.git",
     "mkdirp": "~0.5.0",
     "rimraf": "~2.4.3"
   },
